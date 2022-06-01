@@ -10,5 +10,6 @@ class MainActivity : AppCompatActivity() {
 
         // feature1 기능 구현
         // main에서 변경사항 발생 -> 다른브랜치에서 rebase 할거임
+        // main에서 변경사항 발생2 -> 다른브랜치에서 rebase 할거임
     }
 }
