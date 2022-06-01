@@ -11,5 +11,6 @@ class MainActivity : AppCompatActivity() {
         // feature1 기능 구현
         // main에서 변경사항 발생1
         // main에서 변경사항 발생2
+        // rebase 한 다음 test2에서 작업추가
     }
 }
