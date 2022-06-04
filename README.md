@@ -7,3 +7,4 @@ rebase 테스트용1 </br>
 rebase 테스트용2 </br>
 줄바꿈 추가하고 test2 branch에서 seconde commit </br>
 
+ammend test (시간 변경) </br>
