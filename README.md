@@ -23,3 +23,4 @@ git ammend로 이 코드도 이전 커밋 수정사항에 반영할거임! </br>
 fetch test
 amend test 를 위해서 commit 한번 찍어볼게요!
 아 내가 놓친 코드가 있구나! 이걸 추가를 해볼게~
+commit1 on test2 branch
