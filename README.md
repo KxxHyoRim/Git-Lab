@@ -12,4 +12,5 @@ amend test (커밋 메세지 변경) </br>
 amend test (내용물 변경 후) </br>
 amend test (엉뚱한 시간으로 시간 변경 : 이전 커밋보다 더 과거시간으로 수정할 경우) </br>
 fetch test  </br>
+branch rename하고 commit & push 할거임! </br>
 branch rename하고 commit & push 할거임!
