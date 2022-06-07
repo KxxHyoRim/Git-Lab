@@ -26,3 +26,4 @@ amend test 를 위해서 commit 한번 찍어볼게요!
 commit1 on test2 branch
 commit2 on test2 branch
 commit3 on test2 branch for squash
+commit4 on test2 branch for squash
