@@ -27,3 +27,5 @@ commit1 on test2 branch
 commit2 on test2 branch
 commit3 on test2 branch for squash
 commit4 on test2 branch for squash
+
+develop에서 1.0.0 까지 
