@@ -28,4 +28,4 @@ commit2 on test2 branch
 commit3 on test2 branch for squash
 commit4 on test2 branch for squash
 
-v1.0.0 개발 완료
+v1.0.0 개발 완료!!
